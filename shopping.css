@@ -630,6 +630,8 @@
     display: flex;
     position: relative;
     margin: auto;
+    justify-content: center;
+    margin: 20px;
 }
 
 .fashion_book .book_img {
@@ -639,8 +641,8 @@
 }
 
 .fashion_book .book_img img {
-    width: 50%;
-    height: 50%;
+    width: 370px;
+    height: 350px;
 }
 
 
