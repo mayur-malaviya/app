@@ -646,8 +646,6 @@
 
 .query {
     width: 100%;
-    height: auto;
-   
     margin: auto;
     display: flex;
     justify-content: center;
